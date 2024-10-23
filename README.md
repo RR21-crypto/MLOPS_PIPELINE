@@ -5,7 +5,7 @@ Username dicoding: rayhan gibrani uhum
 
 | | Deskripsi |
 | ----------- | ----------- |
-| Dataset | [Social Media Hate Commentst](https://www.kaggle.com/](https://www.kaggle.com/datasets/subhajeetdas/hate-comment/data)) |
+| Dataset | [Social Media Hate Commentst](https://www.kaggle.com/datasets/subhajeetdas/hate-comment/data) |
 | Masalah | Deskripsi masalah yang di angkat |
 | Solusi machine learning | Deskripsi solusi machine learning yang akan dibuat |
 | Metode pengolahan | Deskripsi metode pengolahan data yang digunakan |
